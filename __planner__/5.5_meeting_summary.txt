@@ -1,0 +1,15 @@
+Todo List 5.5-5.7
+
+Mengchao:
+1. work with Haoran to generate linked list
+2. improve the parabola based on additional heuristics
+
+Haoran:
+1. work with Mengchao to get the linked list of trajectory
+2. use the idea in the meeting to get rid of small steps
+
+Yanran:
+1. Use the steering function to link two parabolas
+2. Provide the heuristics of reachable space
+
+

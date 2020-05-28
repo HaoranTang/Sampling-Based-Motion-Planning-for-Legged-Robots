@@ -1,0 +1,19 @@
+The planner is based on the work in the following repo:
+https://github.com/motion-planning/rrt-algorithms
+
+Requirements:
+Python 3+ https://www.python.org/downloads/
+NumPy https://numpy.org/
+Rtree https://pypi.org/project/Rtree/
+Plotly (only needed for plotting) https://plotly.com/python/getting-started/
+
+The planner is written in the following file:
+\examples\jumpleg\jumpleg.py
+(Open the file in Spyder, and click the run button)
+
+# Haven't tried yet
+Matlab & Python Interface (python 3.7+ requires Matlab 2019+)
+1. Install MATLAB Engine API for Python
+https://www.mathworks.com/help/matlab/matlab_external/install-the-matlab-engine-for-python.html
+2. Call MATLAB Functions from Python
+https://www.mathworks.com/help/matlab/matlab_external/call-matlab-functions-from-python.html

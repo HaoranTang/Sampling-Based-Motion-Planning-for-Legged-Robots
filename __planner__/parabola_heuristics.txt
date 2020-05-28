@@ -1,0 +1,20 @@
+Heuristics for generating parabola
+~ means 'around/about'
+
+ballistic motion planning
+1. friction cone (both start and land) (mu ~ 0.4 - 1)
+2. mininum and maximum velocity constraint (both start and land)
+minimum: ~ 1-2 m/s
+maximum: ~ 3-4 m/s
+
+others:
+1. always land from above (dz_end < 0)
+2. collision checking consider the robot as a ball (radius ~ 0.05-0.1 m)
+3. lower sampling probability when close to the wall
+can start off by offseting from the wall by ~ 0.1-0.2 m depending on the height of the wall
+
+**Bonus features:
+1. consider slope surface
+terrain is not flat everywhere, then the friction cone is changing orientation
+
+
