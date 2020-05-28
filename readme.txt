@@ -1,4 +1,7 @@
-%%%%%%%%%  CS498 final project  %%%%%%%%
+CS 498 IR Final Project
+
+--- Authors ---
+Yanran Ding, Mengchao Zhang, Haoran Tang
 
 --- Objective ---
 Develope a sampling-based motion planning framework for legged robot to traverse challenging terrain
@@ -19,8 +22,3 @@ docs: related publications, feel free to add more documents
 results: intermediate results for progress update and group discussion
 
 presentation: for final presentation
-
-
-
-
-
